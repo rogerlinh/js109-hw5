@@ -1,0 +1,30 @@
+div {
+  background-color: blueviolet;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+#div1 {
+  background-color: burlywood;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+#div2 {
+  background-color: bisque;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+#div3 {
+  background-color: rebeccapurple;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+.special {
+  margin-left: 200px;
+}
+.redText {
+  color: red;
+}
